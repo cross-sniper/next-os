@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=startxfce4
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Start XFCE4
+Name=Start XFCE4
+Comment[en_US]=Start XFCE4 session
+Comment=Start XFCE4 session
